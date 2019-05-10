@@ -25,7 +25,7 @@ similarly among the journalists and literary men Eglinton, Crawford, Hynes, and 
 
 ![Media Types of Mentioned Titles in _Ulysses_](images/media.svg)
 
-![Map of Places Mentioned in _A Portrait of the Artist as a Young Man_](images/map.png)
+![Map of Places Mentioned in _A Portrait of the Artist as a Young Man_](images/portrait-map.svg)
 
 Figure 2 shows another type of analysis: a quantification of the titles of mentioned works, arranged by episode and media type. With this visualization, it is possible to see at a glance which episode is most occupied with newspapers ("Aeolus"), books ("Ithaca"), or songs ("Sirens"). While this doesn't reveal anything surprising—critics have long discussed the intermediality of _Ulysses_—it is an example of how ad hoc schematization of the novel is possible with machine-readable markup in TEI XML. Furthermore, as more interpretation is added to the edition, more sophisticated questions may be asked of the data.
 
